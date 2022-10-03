@@ -1,16 +1,14 @@
-@@ -1,7 +1,7 @@
-[![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611fbf5976621d01668a5d502511b58397c2d11ced6&rid=giphy.gif&ct=g)](https://hamzamaliks.io)
-[![MasterHead](https://wallpaperaccess.com/full/796850.jpg)](https://hamzamaliks.io)
-<h1 align="center">Hi 👋, I'm Malik Hamza Khalid</h1>
-<h3 align="center">A student of Computer Science</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<h1 align="center">Hi , I'm Malik Hamza Khalid<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Developer;"></a>
+</p>
+<br>
+	
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamaliks&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamaliks" /> </p>
-
-- 🔭 I’m currently working on "Operating Systems"
-- 🌱 I’m currently learning "Software Development"
-- 📫 Reach me through  "hamzakhalid8032@gmail.com"
+- :school: I am a `Computer Science Student` at [Institute of Space Technology](https://www.ist.edu.pk/).
+- :student: I’m currently doing BS in `Computer Science`.
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY WEBSITE](https://FasihMuhammadVirk.github.io).
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="(https://m.facebook.com/sboy.beacon0218?eav=AfbVfElJ-zij7iKogrGbKmjPUlZvoT3Hdp2Z6OHHr7WeMfQ5053vL56SmUAX9AUO0MQ&paipv=0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009010178387" height="30" width="40" /></a>
